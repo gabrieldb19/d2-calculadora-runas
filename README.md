@@ -1,6 +1,6 @@
 # d2-calculadora-runas
 
-Esta wea es una simple calculadora de runas para Diablo II. Podes obtener la cantidad de runas que hacen otra.
+Esta wea es una simple calculadora de runas para Diablo II. Puedes obtener la cantidad de runas que hacen otra.
 
 #### Las runas van del 1 al 33.
 #### Las runas aumentan de valor de la siguiente forma:
@@ -14,4 +14,4 @@ En la interfaz se puede seleccionar la Primera Runa (dividendo) y la Segunda Run
 
 ## PD
 
-Este es mi primer proyecto con el que empecé en programación. La idea era facilitar el cálculo de los valores de las runas mientras jugabamos con un grupo de amigos.
+Este es mi primer proyecto con el que empecé en programación. La idea era facilitar el cálculo de los valores de las runas mientras jugábamos con un grupo de amigos.
